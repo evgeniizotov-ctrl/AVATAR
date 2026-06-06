@@ -152,7 +152,7 @@ footer div a img {
 }
 
 /* TELEFONO */
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .audio-spoti {
     display: flex !important;
     flex-direction: column !important;
@@ -178,4 +178,4 @@ footer div a img {
   #contactos {
     margin-left: 0;
   }
-}
+}*/

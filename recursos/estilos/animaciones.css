@@ -70,3 +70,10 @@ header h1 img {
 
   box-shadow: 0 0 15px red;
 }
+img {
+  transition: 0.3s;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
